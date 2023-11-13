@@ -1,0 +1,11 @@
+p{
+    color: blue;
+}
+h1{
+    font-size: 2rem;
+}
+html{
+    font-size: 15px;
+    border: 2px solid black;
+    text-align: center;
+}
